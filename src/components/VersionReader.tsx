@@ -1,5 +1,4 @@
 import * as React from 'react';
-import packageJson from '../../../template/package.json';
 
 type Props = {
     name: string
